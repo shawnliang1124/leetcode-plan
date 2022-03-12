@@ -8,8 +8,8 @@ package com.shawnliang.leetcode.plan.linkedlist;
  */
 public class ListNode {
 
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     ListNode() {
     }
@@ -23,4 +23,11 @@ public class ListNode {
         this.next = next;
     }
 
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                ", next=" + next +
+                '}';
+    }
 }
