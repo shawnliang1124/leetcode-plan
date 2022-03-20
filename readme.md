@@ -8,6 +8,10 @@
 | CycleLinked141  | 141. 环形链表 | 链表| https://leetcode-cn.com/problems/linked-list-cycle/ | 22.03.06
 | MergeTwoSortList21  | 21. 合并链表 | 链表| https://leetcode-cn.com/problems/merge-two-sorted-lists/ | 22.03.07
 | RemoveNthNode19  | 19. 删除倒数第n个节点 | 链表| https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/ | 22.03.12
-| MiddleLinkedList876  | 876. 链表的中间结点 | 链表|  https://leetcode-cn.com/problems/middle-of-the-linked-list/| 22.03.12
-| 敬请期待  | ... |  | |
+| MinStack155V1  |  155. 最小栈 | 栈|  https://leetcode-cn.com/problems/min-stack/| 22.03.20
+| MinStack155V1  |  155. 最小栈 | 栈 |  https://leetcode-cn.com/problems/min-stack/| 22.03.20
+| NextGreater496  | 496. 下一个更大元素 I | 栈|  https://leetcode-cn.com/problems/next-greater-element-i/| 22.03.20
+| NextGreater503  | 503. 下一个更大元素 II. | 栈| https://leetcode-cn.com/problems/next-greater-element-ii/| 22.03.20
+| 敬请期待  | 敬请期待 | 敬请期待| 敬请期待/|敬请期待
+
 
