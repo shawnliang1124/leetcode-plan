@@ -12,6 +12,10 @@
 | MinStack155V1  |  155. 最小栈 | 栈 |  https://leetcode-cn.com/problems/min-stack/| 22.03.20
 | NextGreater496  | 496. 下一个更大元素 I | 栈|  https://leetcode-cn.com/problems/next-greater-element-i/| 22.03.20
 | NextGreater503  | 503. 下一个更大元素 II. | 栈| https://leetcode-cn.com/problems/next-greater-element-ii/| 22.03.20
+| AvageWindow41  | 041. 滑动窗口的平均值 | 队列| https://leetcode-cn.com/problems/qIsx9U/| 22.04.16
+| FirstUniqueCharacter387  | 387. 字符串中的第一个唯一字符 | 队列| https://leetcode-cn.com/problems/first-unique-character-in-a-string/| 22.04.16
+
+
 | 敬请期待  | 敬请期待 | 敬请期待| 敬请期待/|敬请期待
 
 
